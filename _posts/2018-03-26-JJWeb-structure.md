@@ -19,6 +19,16 @@ tags:
 > 但是，由于运行于 RESTFul 协议之上，在网络IO上性能相比基于自定义的二进制协议较低。
 
 
-## 基于Spring Cloud 的 Web 系统架构
+## 系统架构示意图
 
-系统基于Spring Cloud搭建，运行与RESTFul协议
+![](/img/in-post/f2d133/hong_guan_jia_gou_tu.jpg)
+
+## 使用组件
+
+* LVS
+* Spring Boot
+* Spring Cloud Zuul
+* Spring Cloud Eureka
+* Spring Cloud Hystrix
+* Spring Cloud Ribbon
+* Spring Cloud Feign
