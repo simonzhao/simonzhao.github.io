@@ -3,7 +3,7 @@ layout: post
 title: "基于 Spring Cloud 的Web系统架构"
 date: 2018-03-26 15:29:00
 author: "赵影楠"
-header-img: "img/post-bg-unix-linux.jpg"
+header-img: "/img/post-bg-unix-linux.jpg"
 catalog: true
 tags:
     - Spring Boot
