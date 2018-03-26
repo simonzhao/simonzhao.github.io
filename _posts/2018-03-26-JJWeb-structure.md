@@ -34,3 +34,18 @@ tags:
 * Spring Cloud Ribbon
 * [Spring Cloud Feign](https://github.com/OpenFeign/feign) 
 Feign是一种声明式、模板化的HTTP客户端。
+
+
+## 主要层次
+
+
+### 资源注册与发现
+
+
+### 负载均衡层
+
+
+### API 网关层
+
+
+### 微服务实例层
