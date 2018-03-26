@@ -32,4 +32,5 @@ tags:
 * Spring Cloud Eureka
 * Spring Cloud Hystrix
 * Spring Cloud Ribbon
-* Spring Cloud Feign
+* [Spring Cloud Feign](https://github.com/OpenFeign/feign) 
+Feign是一种声明式、模板化的HTTP客户端。
