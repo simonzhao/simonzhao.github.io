@@ -1,7 +1,7 @@
 # Site settings
 title: Simon Zhao Blog
 SEOTitle: 赵影楠的博客 | Simon Zhao Blog
-header-img: img/home-bg.jpg
+header-img: /img/avatar.jpg
 email: 34255578@qq.com
 description: "关于高性能后端技术的讨论。"
 keyword: "Java Maven Netty Redis MySQL PHP Yaf"
